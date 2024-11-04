@@ -1,0 +1,12 @@
+citHeader("To cite differnetiatoR in publications use:")
+
+citEntry(entry = "Unpublished",
+  title        = "differentiatoR: A toolkit for stem cell differentiation analysis",
+  author       = "Gerd Bizi",
+  note         = "Unpublished",
+  year         = "2024",
+
+  textVersion  =
+  paste("Bizi, G. (2024) differentiatoR: A toolkit for stem cell differentiation analysis."
+        Unpublished. URL https://github.com/gerd-bizi/differentiatoR.")
+)
